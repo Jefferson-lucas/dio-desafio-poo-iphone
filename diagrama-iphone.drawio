@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FoqmphkR9pTZVYGT7L1r-29" value="Safari" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="430" width="160" height="34" as="geometry">
+          <mxGeometry x="594" y="430" width="160" height="34" as="geometry">
             <mxRectangle x="70" y="430" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
